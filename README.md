@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rajeevkr945
 - 👀 I’m interested in ...anything that runs on electricity
-- 🌱 I’m currently learning ...electronics engineering
-- 💞️ I’m looking to collaborate on ...
+- 🌱 electronics engineer
 - 📫 How to reach me ...rajeevkr945@gmail.com
 
 <!---
