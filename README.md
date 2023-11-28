@@ -15,7 +15,9 @@ Exploring the world of electronics and firmware development. Check out some of m
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevkr945&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/rajeevkr945)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkr945&layout=compact&hide=html&theme=radical)](https://github.com/rajeevkr945)
+![rajeevkr945's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkr945&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+
 
 # Technologies & Tools
 
